@@ -235,7 +235,6 @@
         "acquia/lightning": "3.3.4",
         "drupal/admin_toolbar": "^1.26",
         "drupal/block_class": "1.0",
-        "drupal/blog": "2.0-beta1",
         "drupal/bootstrap_layouts": "5.1",
         "drupal/button_link": "1.1",
         "drupal/ckeditor_codemirror": "2.2",
